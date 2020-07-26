@@ -1,42 +1,42 @@
-食器　         Đồ dùng để ăn, bộ đồ ăn
-汚れ　         Vết bẩn
+食器　 .        Đồ dùng để ăn, bộ đồ ăn
+汚れ　 .        Vết bẩn
 癖　         Thói quen
-洗剤　         Chất tẩy rửa, chất làm sạch
-汚す　         Làm bẩn, làm ô nhiễm
-畳む　         Gấp lại
+洗剤　.         Chất tẩy rửa, chất làm sạch
+汚す　 .        Làm bẩn, làm ô nhiễm
+畳む　.         Gấp lại
 剃る　         Gọt, cạo (râu)
 捲る　         Lật, giở trang sách
-しまう         　Để vào, cất vào
-掃除機         　Máy hút bụi
-アイロン         　Bàn là
-家具         　Đồ nội thất, đồ đạc trong nhà
-動かす         　Di chuyển
+しまう   .      　Để vào, cất vào
+掃除機   .      　Máy hút bụi
+アイロン   .      　Bàn là
+家具  .       　Đồ nội thất, đồ đạc trong nhà
+動かす  .       　Di chuyển
 床　         Nền nhà, sàn nhà　
 拭く　         Lau chùi, làm sạch
-調子　         Tình trạng, trạng thái　
-修理         　Sửa chữa, tu sửa
-リサイクル         　Sự tái chế
-家事         　Công việc nhà, việc nội trợ
-面倒臭い　         Phiền toái, phiền phức
-羨ましい　         Ghen tị, thèm muốn
+調子　.         Tình trạng, trạng thái　
+修理  .       　Sửa chữa, tu sửa
+リサイクル   .      　Sự tái chế
+家事  .       　Công việc nhà, việc nội trợ
+面倒臭い　 .        Phiền toái, phiền phức
+羨ましい　.         Ghen tị, thèm muốn
 覚める　         Tỉnh dậy, thức tỉnh
 欠伸　         Ngáp
-涙         　Nước mắt
+涙    .     　Nước mắt
 睡眠         　Giấc ngủ
 朝食         　Bữa cơm sáng
-化粧         　Trang điểm
-餌　         Mồi, đồ ăn cho thú nuôi
-可愛がる         　Thương yêu, nâng niu
-定期　         Định kỳ, thời gian quy định
-遅刻　         Chậm trễ, muộn
-携帯電話         　Điện thoại di động
+化粧   .      　Trang điểm
+餌　  .       Mồi, đồ ăn cho thú nuôi
+可愛がる   .      　Thương yêu, nâng niu
+定期　   .      Định kỳ, thời gian quy định
+遅刻　  .       Chậm trễ, muộn
+携帯電話   .      　Điện thoại di động
 文句　         Sự kêu ca, phàn nàn
-疲れ　         Sự mệt mỏi
-噂　         Lời đồn, tin đồn
-電池　         Pin, ắc quy
-切れる         　Hết (pin)
+疲れ　  .       Sự mệt mỏi
+噂　.         Lời đồn, tin đồn
+電池　 .        Pin, ắc quy
+切れる  .       　Hết (pin)
 退屈         　Buồn tẻ, nhàm chán
-帰宅　         Sự trở về nhà
+帰宅　 .        Sự trở về nhà
 毛布　         Cái chăn
 襟　         Cổ áo
 
